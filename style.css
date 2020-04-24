@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    background-color: rgb(204, 188, 188);
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.container{
+
+        max-width: 1000px;
+        background-color: rgb(169, 218, 209);
+        margin: 0 auto;
+        padding: 20px;
+
+}
+
+.pro-img{
+
+        width: 100px;
+        height: 120px;
+        border: 3px solid white;
+        border-radius: 50%;
+        float: left;
+
+}
+
+.header-info{
+
+    float: left;
+    padding: 30px;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color: #125355;
+
+
+}
+
+.header-contact{
+
+        float: left;
+        padding: 30px;
+
+}
+
+.header-contact a{
+
+    text-decoration: none;
+    color: rgb(22, 112, 112);
+    font-weight: bold;
+
+}
+
+.header-contact a:hover{
+
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.div-clear{
+
+        clear: both;
+
+}
+
+hr{
+
+    border: solid rgb(8, 0, 0) 3px;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+
+}
+
+#personal-section{
+
+
+
+
+}
+
+.content{
+
+        margin: 30px;
+
+}
+
+.left-div{
+
+    width: 30%;
+    float: left;
+    color:#1c3738;
+
+}
+
+.right-div{
+
+    width: 70%;
+    float: left;
+    color: #072122;
+
+}
+
+.com-hr{
+
+    border: solid black 1px;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+
+}
+
+.edu-left{
+
+   float: left;
+   width: 45%;
+
+}
+
+.edu-right{
+
+    float: right;
+    width: 45%;
+ 
+ }
+
+ .ref-left{
+
+    float: left;
+    width: 45%;
+ 
+ }
+ 
+ .ref-right{
+ 
+     float: right;
+     width: 45%;
+  
+  }
+
+  .f-container{
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+  }
+
+  .f-container a{
+
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+  }
+
+  .f-container p{
+
+    color: white;
+    margin-top: 20px;
+
+  }
